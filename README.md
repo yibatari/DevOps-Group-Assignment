@@ -1,5 +1,5 @@
-# bu-website-practical
-Masters students Dev Ops practical
+DevOps GROUP ASSIGNMENT
+
 
 Use the script BETWEEN the ==== lines below in the User Data area of the EC2 instance set-up
 ====================================================================================== start from next line
